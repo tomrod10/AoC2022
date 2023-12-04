@@ -1,3 +1,4 @@
+// link: https://adventofcode.com/2022/day/1
 // Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
 import * as fs from 'fs/promises'
